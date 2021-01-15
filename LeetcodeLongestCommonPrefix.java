@@ -1,3 +1,5 @@
+//leetcode - longest common prefix
+
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         
@@ -28,4 +30,4 @@ class Solution {
             
         
     }
-}gt
+}
